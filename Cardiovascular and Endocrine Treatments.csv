@@ -1,0 +1,138 @@
+CONDITION,DIAGNOSTIC BASKET,DIAGNOSTIC BASKET,DIAGNOSTIC BASKET,ONGOING MANAGEMENT BASKET,ONGOING MANAGEMENT BASKET,ONGOING MANAGEMENT BASKET,ONGOING MANAGEMENT BASKET
+,PROCEDURE OR TEST DESCRIPTION,PROCEDURE OR TEST CODE,NUMBER OF PROCEDURES OR TESTS WE COVER,PROCEDURE OR TEST DESCRIPTION,PROCEDURE OR TEST CODE,NUMBER OF PROCEDURES OR TESTS WE COVER,NUMBER OF SPECIALISTS WE COVER EACH YEAR
+Cardiac Failure,U & E only,4171,1,U & E only,4171,4,2
+Cardiac Failure,"ECG –
+Electrocardiogram","(1228+1230)
+or (1229+1231)
+or 1232 or
+1233 or
+1234 or
+1235 or
+1236",1,"ECG –
+Electrocardiogram","(1228+1230)
+or 1232",3,
+Cardiac Failure,,,,,"(1229+1231)
+or 1233 or
+1234 or
+1235 or
+1236",1,
+Cardiac Failure,Echocardiography,"3620 &
+3621 &
+3622 &
+3623 &
+3624 &
+3625",1,Echocardiography,"3620 &
+3621 &
+3622 &
+3623 &
+3624 &
+3625",2,
+Cardiac Failure,B-Type natriuretic peptide,4488,1,B-Type natriuretic peptide,4488,1,
+Cardiac Failure,Creatinine,"4032 or
+4221 or
+4223",1,Creatinine,"4032 or
+4221 or
+4223",4,
+Cardiac Failure,C-reactive protein,3947,1,Drug level in biological fluid,"4081 or
+4370 or
+4493",3,
+Cardiac Failure,Full blood count,3755,1,,,,
+Cardiac Failure,Troponin isoforms,4161,1,Threshold testing: own equipment,1268,1,
+Cardiac Failure,Total cholesterol,4027,1,,,,
+Cardiac Failure,Urine analysis (dipstick),4188,1,Urine analysis (dipstick),4188,4,
+Cardiac Failure,"Glucose –
+random/fasting","4050 or
+4057",1,Programming of the Atrioventricular sequential pacemaker,"1270 or
+75075",1,
+Cardiac Failure,"X-ray of the chest two views, PA and lateral",30110,1,"X-ray of the chest two views, PA and lateral",30110,1,
+Cardiac Failure,Thyrotropin (TSH),4507,1,,,,
+Hypertension,Urine analysis (dipstick),4188,1,Urine analysis (dipstick),4188,1,
+Hypertension,U & E only,4171,1,U & E only,4171,1,
+Hypertension,24 Hour ambulatory blood pressure,1237,1,24 Hour ambulatory blood pressure,1237,1,
+Diabetes Insipidus,U & E only,4171,1,U & E only,4171,3,1
+Diabetes Insipidus,Creatinine,"4032 or
+4221 or
+4223",1,Creatinine,"4032 or
+4221 or
+4223",3,
+Diabetes Insipidus,Osmolality: Serum or urine,4093,1,Osmolality: Serum or urine,4093,1,
+Diabetes Mellitus Type 1,"ECG –
+Electrocardiogram","1232 or
+1233 or
+1236",1,"ECG –
+Electrocardiogram","1232 or
+1233 or
+1236",1,"1 (Ophthal- mologist)
+4 (Other Specialist)"
+Diabetes Mellitus Type 1,Microalbuminuria,"4261 or
+4262",1,Microalbuminuria,"4261 or
+4262",2,
+Diabetes Mellitus Type 1,Urine analysis (dipstick),4188,1,Urine analysis (dipstick),4188,4,
+Diabetes Mellitus Type 1,LDL cholesterol,4026,1,LDL cholesterol,4026,1,
+Diabetes Mellitus Type 1,HDL cholesterol,4028,1,HDL cholesterol,4028,1,
+Diabetes Mellitus Type 1,Total cholesterol,4027,1,Total cholesterol,4027,1,
+Diabetes Mellitus Type 1,Triglycerides,4147,1,Triglycerides,4147,1,
+Diabetes Mellitus Type 1,U & E only,4171,1,U & E only,4171,1,
+Diabetes Mellitus Type 1,Serum creatinine,"4032 or
+4223",1,Serum creatinine,"4032 or
+4223",1,
+Diabetes Mellitus Type 1,Urine creatinine,4221,1,Urine creatinine,4221,1,
+Diabetes Mellitus Type 1,Two-hour glucose- OGTT,4049,1,HbA1c,4064,4,
+Diabetes Mellitus Type 1,"Glucose –
+random/fasting",4057,1,Tonometry,3014,1,
+Diabetes Mellitus Type 1,,,,Basic capital equipped in own rooms by ophthalmologists,3009,1,
+Diabetes Mellitus Type 1,,,,Dietitian,"84200 or
+84201 or
+84202 or
+84203 or
+84204 or
+84205",1,
+Diabetes Mellitus Type 1,,,,Fundus examination,"3003 or
+3004 or
+3027",1,
+Diabetes Mellitus Type 1,,,,Podiatrist,"68301 or
+68302 or
+68303 or
+68304 or",1,
+Diabetes Mellitus Type 1,,,,Diabetes Educator,DFSC1,,
+Diabetes Mellitus Type 1,,,,Diabetes Educator,DEDUT or DEDU1,2,
+Diabetes Mellitus Type 2,"ECG –
+Electrocardiogram","1232 or
+1233 or
+1236",1,"ECG –
+Electrocardiogram","1232 or
+1233 or
+1236",1,"1 (Ophthal- mologist)
+1 (Other Specialist)"
+Diabetes Mellitus Type 2,Microalbuminuria,"4261 or
+4262",1,Microalbuminuria,"4261 or
+4262",2,
+Diabetes Mellitus Type 2,HDL cholesterol,4028,1,HDL cholesterol,4028,1,
+Diabetes Mellitus Type 2,Total cholesterol,4027,1,Total cholesterol,4027,1,
+Diabetes Mellitus Type 2,LDL cholesterol,4026,1,LDL cholesterol,4026,1,
+Diabetes Mellitus Type 2,Triglycerides,4147,1,Triglycerides,4147,1,
+Diabetes Mellitus Type 2,Urine analysis (dipstick),4188,1,Urine analysis (dipstick),4188,4,
+Diabetes Mellitus Type 2,U & E only,4171,1,U & E only,4171,1,
+Diabetes Mellitus Type 2,Urine creatinine,4221,1,Urine creatinine,4221,1,
+Diabetes Mellitus Type 2,"Glucose –
+random/fasting",4057,1,HbA1c,4064,4,
+Diabetes Mellitus Type 2,Serum creatinine,"4032 or
+4223",1,Serum creatinine,"4032 or
+4223",1,
+Diabetes Mellitus Type 2,Two-hour glucose- OGTT,4049,1,Tonometry,3014,1,
+Diabetes Mellitus Type 2,,,,Basic capital equipped in own rooms by ophthalmologists,3009,1,
+Diabetes Mellitus Type 2,,,,Fundus examination,"3003 or
+3004 or
+3027",1,
+Diabetes Mellitus Type 2,,,,Podiatrist,"68301 or
+68302 or
+68303 or
+68304 or",1,
+Diabetes Mellitus Type 2,,,,Diabetes Educator,DFSC1,,
+Diabetes Mellitus Type 2,,,,Dietitian,"84200 or
+84201 or
+84202 or
+84203 or
+84204 or
+84205",1,
+Diabetes Mellitus Type 2,,,,Diabetes Educator,DEDUT or DEDU1,2,
